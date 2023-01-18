@@ -1,0 +1,27 @@
+.word{
+
+font-size: larger;
+margin: 10px auto;
+width: 50%;
+display: inline;
+}
+.wordn{
+    color: #27e446;
+}
+#btn{
+    background-color: green !important;
+    width: 50px;
+    height: 100px;
+    display: inline-block;
+}
+.main{
+    display: flex;
+}
+.first{
+    position: absolute;
+    top: 400px;
+}
+#nav{
+    position:sticky;
+    top: 20px;
+}
